@@ -1,5 +1,6 @@
 @import url("./normalize.css");
 @import url("./fonts.css");
+@import url("./main.css");
 
 :root {
   --primary-font: "Manrope", "Arial", sans-serif;
