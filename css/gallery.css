@@ -1,0 +1,11 @@
+.gallery {
+  grid-area: gallery;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  margin: 0;
+}
+
+.gallery__image {
+  display: block;
+}

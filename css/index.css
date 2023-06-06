@@ -3,6 +3,7 @@
 @import url("./main.css");
 @import url("./breadcrumbs.css");
 @import url("./text.css");
+@import url("./gallery.css");
 
 :root {
   --primary-font: "Manrope", "Arial", sans-serif;
