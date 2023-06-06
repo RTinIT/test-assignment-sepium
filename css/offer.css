@@ -1,0 +1,36 @@
+.offer {
+  grid-area: offer;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  gap: 40px;
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.offer__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+  text-align: end;
+  color: var(--color-grey-text);
+}
+
+.offer__button {
+  display: block;
+  padding: 20px;
+  color: var(--color-white);
+  background-color: var(--color-lime);
+  text-decoration: none;
+  border-radius: 15px;
+}
+
+.offer__button span::after {
+  content: '\25BA';
+  font-size: 12px;
+  margin-left: 48px;
+}
