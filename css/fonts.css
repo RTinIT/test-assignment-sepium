@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'PT Sans Caption';
+  display: swap;
+  src: local('PT Sans Caption'), local('PT Sans Caption'),
+      url('../assets/fonts/PT_Sans_Caption/PTSansCaption-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  display: swap;
+  src: local('Manrope'), local('Manrope'),
+      url('../assets/fonts/Manrope/Manrope-VariableFont_wght.ttf') format('woff'),
+      url('../assets/fonts/Manrope/static/Manrope-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
