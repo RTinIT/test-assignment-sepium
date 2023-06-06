@@ -5,6 +5,7 @@
 @import url("./text.css");
 @import url("./gallery.css");
 @import url("./image.css");
+@import url("./slider.css");
 
 :root {
   --primary-font: "Manrope", "Arial", sans-serif;
