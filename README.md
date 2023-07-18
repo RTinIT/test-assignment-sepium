@@ -1,4 +1,4 @@
-# For Sepium
+# For SepiumGroup
 
 ### [Demo](https://rtinit.github.io/test-assignment-sepium/index.html)
 
